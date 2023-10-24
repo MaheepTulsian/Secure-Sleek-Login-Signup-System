@@ -10,9 +10,9 @@ This is a simple login and signup system created using HTML, CSS, and JavaScript
 
 ## Project Structure
 
-- `login.html`: The HTML file for the login page.
+- `index.html`: The HTML file for the login page.
 - `signup.html`: The HTML file for the signup page.
-- `login.css`: The CSS file for styling the login and signup pages.
+- `style.css`: The CSS file for styling the login and signup pages.
 - `login.js`: JavaScript code for handling the login process.
 - `signup.js`: JavaScript code for handling the signup process.
 - `assets/`: Directory for storing image assets used in the project.
